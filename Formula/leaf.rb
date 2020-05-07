@@ -2,7 +2,7 @@ class Leaf < Formula
   desc "General purpose hot-reloader for all projects."
   homepage "https://github.com/vrongmeal/leaf"
   url "https://github.com/vrongmeal/leaf/archive/v1.2.2.tar.gz"
-  sha256 "b96bef79ca888fa5f44213a47af6d7069198539f16705094cbddda755aed5e28"
+  sha256 "be8c0538b82109464dc5d5b28c7055cf76295f19d0777bce2bbc07e6460936be"
 
   depends_on "go" => :build
 
